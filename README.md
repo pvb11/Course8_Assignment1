@@ -2,7 +2,7 @@
 
 This directory contains my responses for the course project for the Johns Hopkins Data Science Specialization: Practical Machine Learning.
 
-This directory contains file files:
+This directory contains four files:
 
 PMLassignment1.R - contains all of the code to execute this analysis
 
